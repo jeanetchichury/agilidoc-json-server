@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Eugênio Oliveira",
+      "email": "eugenio.oliveira@bol.com.br",
+      "entrada": "pago",
+      "itbi": "pago",
+      "iptu": "entregue ao cliente",
+      "cartorio": "aguardando",
+      "certidao": "aguardando"
+    },
+    {
+      "id": 2,
+      "nome": "Olívia Ribeiro",
+      "email": "olivia.ribeiro@gmail.com",
+      "entrada": "aguardando",
+      "itbi": "aguardando",
+      "iptu": "aguardando",
+      "cartorio": "aguardando",
+      "certidao": "aguardando"
+    },
+    {
+      "id": 3,
+      "nome": "Mirtes Faria Lima",
+      "email": "mirtes_fl@yahoo.com",
+      "entrada": "pago",
+      "itbi": "pago",
+      "iptu": "pago",
+      "cartorio": "finalizado",
+      "certidao": "entregue"
+    },
+    {
+      "id": 4,
+      "nome": "teste",
+      "email": "teste",
+      "entrada": "teste",
+      "itbi": "teste",
+      "iptu": "teste",
+      "cartorio": "teste",
+      "certidao": "teste"
+    },
+    {
+      "nome": "Jean teste cartorio",
+      "email": "jean@hotmail.com",
+      "entrada": "pago",
+      "itbi": "pago",
+      "iptu": "pago",
+      "cartorio": "aguardando pagamento",
+      "certidao": "aguardando passo anterior",
+      "id": 5
+    }
+  ]
+}
