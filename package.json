@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "json-server --watch db.json --port 5000 --middlewares ./range.js",
-    "dev": "json-server --watch db.json --port 5000 --middlewares ./range.js"
+    "server": "json-server --watch db.json --middlewares ./range.js",
+    "dev": "json-server --watch db.json --middlewares ./range.js"
   },
   "keywords": [],
   "author": "",
